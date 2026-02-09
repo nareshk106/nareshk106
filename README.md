@@ -35,15 +35,6 @@ I build scalable web applications using **Python** and **TypeScript** across mod
 - AI Research Paper Assistant - https://github.com/nareshk106/AI-assistent-for-Research-Papers
 - Chatbot using LangChain - https://github.com/nareshk106/Chatbot
 
----
-
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=nareshk106&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nareshk106&layout=compact)
-
----
-
 ## 📫 Connect
 X - https://x.com/nksages
 Linkedin - https://www.linkedin.com/in/naresh-522b7b23b/
