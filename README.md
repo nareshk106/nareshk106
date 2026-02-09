@@ -31,11 +31,9 @@ I build scalable web applications using **Python** and **TypeScript** across mod
 ---
 
 ## 📌 Featured Projects
-- Authentication & Authorization System
-- AI Research Paper Assistant
-- Chatbot using LangChain
-- YouTube Clone
-- Backend Docker CI/CD Practice
+- Authentication & Authorization System - https://github.com/nareshk106/Authentication-and-Authorization-system
+- AI Research Paper Assistant - https://github.com/nareshk106/AI-assistent-for-Research-Papers
+- Chatbot using LangChain - https://github.com/nareshk106/Chatbot
 
 ---
 
