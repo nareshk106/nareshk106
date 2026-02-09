@@ -47,7 +47,7 @@ I build scalable web applications using **Python** and **TypeScript** across mod
 ---
 
 ## 📫 Connect
-Add LinkedIn / Portfolio here
+X - https://x.com/nksages
 
 ---
 
