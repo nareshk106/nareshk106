@@ -1,5 +1,5 @@
 # Hi, I'm Naresh 👋  
-### Full Stack Developer
+### Full Stack Developer and currently exploring GenAI 
 
 I build scalable web applications using **Python** and **TypeScript** across modern frontend and backend stacks.
 
